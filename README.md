@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Cpp Programmer💻, frontend developer🚀, and ML learner from India</h3>
 <img alt="Coder GIF" align="right" height=300 width=400 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sejalkathane&label=Profile%20views&color=0e75b6&style=flat" alt="sejal kathane" /> </p>
+[![](https://visitcount.itsvg.in/api?id=Sejalkathane&icon=0&color=0)](https://visitcount.itsvg.in)
 
 - 🔭 I’m currently working on **ML Project**
 
@@ -47,8 +47,7 @@ Libraries: NumPy | Pandas | Matplotlib | Seaborn |
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Sejalkathane&limit=5&theme=monokai&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=Sejalkathane&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/kathanesejal) 
