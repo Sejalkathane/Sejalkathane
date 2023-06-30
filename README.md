@@ -16,6 +16,15 @@
 
 - ⚡ Fun fact **I think I am Innovative.**
 
+- 🔥 Key Skills: Familiar with =><br/>
+Programming Languages: C, C++, Python  <br/>
+Data Structures | Algorithms | Problem-Solving<br/>
+Web Development: HTML5 | CSS | JavaScript | React.js | Bootstrap<br/>
+Version Control: Git | GitHub<br/>
+Databases: SQL | MongoDB<br/>
+Server-side: Node.js<br/>
+Libraries: NumPy | Pandas | Matplotlib | Seaborn |
+
 
 
 ## 🌐 Socials:
