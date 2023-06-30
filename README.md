@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm SejalKathane</h1>
-<h3 align="center">A passionate Cpp Programmer, frontend developer, and ML learner from India</h3>
+<h3 align="center">A passionate Cpp Programmer💻, frontend developer🚀, and ML learner from India</h3>
 <img alt="Coder GIF" align="right" height=300 width=400 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sejalkathane&label=Profile%20views&color=0e75b6&style=flat" alt="sejal kathane" /> </p>
