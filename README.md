@@ -29,8 +29,8 @@ Libraries: NumPy | Pandas | Matplotlib | Seaborn |
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sejal-kathane-8806794167s) 
-[![Hackerrank](https://img.shields.io/badge/Hackerrank-black.svg?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/https://www.hackerrank.com/kathanesejal?hr_r=1)
-[![Leetcode](https://img.shields.io/badge/Leetcode-red.svg?logo=leetcode&logoColor=white)](https://www.leetcode.com/https://leetcode.com/sejalkathane/)
+[![Hackerrank](https://img.shields.io/badge/Hackerrank-black.svg?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/kathanesejal)
+[![Leetcode](https://img.shields.io/badge/Leetcode-red.svg?logo=leetcode&logoColor=white)](https://leetcode.com/Sejalkathane/)
 [![GFG](https://img.shields.io/badge/GFG-green.svg?logo=gfg&logoColor=white)](https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/kathanesejal)
 
 
