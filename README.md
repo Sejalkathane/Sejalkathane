@@ -31,7 +31,7 @@ Libraries: NumPy | Pandas | Matplotlib | Seaborn |
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sejal-kathane-8806794167s) 
 [![Hackerrank](https://img.shields.io/badge/Hackerrank-black.svg?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/kathanesejal)
 [![Leetcode](https://img.shields.io/badge/Leetcode-red.svg?logo=leetcode&logoColor=white)](https://leetcode.com/Sejalkathane/)
-[![GFG](https://img.shields.io/badge/GFG-green.svg?logo=gfg&logoColor=white)](https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/kathanesejal)
+[![GFG](https://img.shields.io/badge/geeksforgeeks-green.svg?logo=geeksforgeeks&logoColor=black)](https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/kathanesejal)
 
 
 # 💻 Tech Stack:
