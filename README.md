@@ -2,6 +2,8 @@
 <h3 align="center">A passionate Cpp Programmer💻, frontend developer🚀, and ML learner from India</h3>
 <img alt="Coder GIF" align="right" height=300 width=400 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 
+[![](https://visitcount.itsvg.in/api?id=Sejalkathane&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 - 🔭 I’m currently working on **ML Project**
 
